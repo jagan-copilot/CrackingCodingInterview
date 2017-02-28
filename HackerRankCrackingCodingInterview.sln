@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ctci-array-left-rotation", "ctci-array-left-rotation\ctci-array-left-rotation.csproj", "{DE415B8C-A490-4571-AAF0-D970985F7860}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ctci-is-binary-search-tree", "ctci-is-binary-search-tree\ctci-is-binary-search-tree.csproj", "{B734B0B1-8A60-4BA1-9BDF-1F5792E7ABB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ctci-making-anagrams", "ctci-making-anagrams\ctci-making-anagrams.csproj", "{623F2072-9B6A-4D06-A708-604C3C5DAE68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ctci-ransom-note", "ctci-ransom-note\ctci-ransom-note.csproj", "{37CC6AEB-C8E2-4ED0-9753-D94225643395}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ctci-linked-list-cycle", "ctci-linked-list-cycle\ctci-linked-list-cycle.csproj", "{0A950274-217D-4BF3-BBE7-A4B47B9EA35C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE415B8C-A490-4571-AAF0-D970985F7860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE415B8C-A490-4571-AAF0-D970985F7860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE415B8C-A490-4571-AAF0-D970985F7860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE415B8C-A490-4571-AAF0-D970985F7860}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B734B0B1-8A60-4BA1-9BDF-1F5792E7ABB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B734B0B1-8A60-4BA1-9BDF-1F5792E7ABB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B734B0B1-8A60-4BA1-9BDF-1F5792E7ABB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B734B0B1-8A60-4BA1-9BDF-1F5792E7ABB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{623F2072-9B6A-4D06-A708-604C3C5DAE68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{623F2072-9B6A-4D06-A708-604C3C5DAE68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{623F2072-9B6A-4D06-A708-604C3C5DAE68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{623F2072-9B6A-4D06-A708-604C3C5DAE68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37CC6AEB-C8E2-4ED0-9753-D94225643395}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37CC6AEB-C8E2-4ED0-9753-D94225643395}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37CC6AEB-C8E2-4ED0-9753-D94225643395}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37CC6AEB-C8E2-4ED0-9753-D94225643395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A950274-217D-4BF3-BBE7-A4B47B9EA35C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A950274-217D-4BF3-BBE7-A4B47B9EA35C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A950274-217D-4BF3-BBE7-A4B47B9EA35C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A950274-217D-4BF3-BBE7-A4B47B9EA35C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
