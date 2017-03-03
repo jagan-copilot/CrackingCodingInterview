@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ctci-ransom-note", "ctci-ra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ctci-linked-list-cycle", "ctci-linked-list-cycle\ctci-linked-list-cycle.csproj", "{0A950274-217D-4BF3-BBE7-A4B47B9EA35C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "HackerRank", "HackerRank", "{79D47910-5C4F-4147-BB0A-246ABFFC6B11}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DE415B8C-A490-4571-AAF0-D970985F7860} = {79D47910-5C4F-4147-BB0A-246ABFFC6B11}
+		{B734B0B1-8A60-4BA1-9BDF-1F5792E7ABB9} = {79D47910-5C4F-4147-BB0A-246ABFFC6B11}
+		{623F2072-9B6A-4D06-A708-604C3C5DAE68} = {79D47910-5C4F-4147-BB0A-246ABFFC6B11}
+		{37CC6AEB-C8E2-4ED0-9753-D94225643395} = {79D47910-5C4F-4147-BB0A-246ABFFC6B11}
+		{0A950274-217D-4BF3-BBE7-A4B47B9EA35C} = {79D47910-5C4F-4147-BB0A-246ABFFC6B11}
 	EndGlobalSection
 EndGlobal
